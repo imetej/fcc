@@ -10,7 +10,7 @@
     "keywords": ["descriptive", "related", "words", "freecodecamp"],
     "license": "MIT",
     "dependencies": {
-      "npm": "^7.23.0"
+      "moment": "^2.14.0"
     }
   }
   
